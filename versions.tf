@@ -1,5 +1,5 @@
 terraform {
-
+/*
   cloud {
     organization = "tfc-sentinel-sandbox"
 
@@ -7,6 +7,7 @@ terraform {
       name = "learn-terraform-cloud"
     }
   }
+*/
 
   required_providers {
     aws = {
